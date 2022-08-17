@@ -1,4 +1,4 @@
-# Zork
+# Mini Zork
 
 ##### Original Game: [Click Here](https://en.wikipedia.org/wiki/Zork)
 
